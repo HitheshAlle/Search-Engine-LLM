@@ -31,5 +31,5 @@ huggingface_hub
 langchain_groq
 langchain_community
 SQLAlchemy
-validators==0.28.1
 gradio
+wikipedia
